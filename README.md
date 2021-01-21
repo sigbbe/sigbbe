@@ -1,16 +1,16 @@
-### Hi there 👋
+### Haloi 👋
 
 <!--
-**sigbbe/sigbbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  **sigbbe/sigbbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on becoming a better hackerman
+- 🌱 I’m currently learning typescript
+- 👯 I’m looking to collaborate on basically anything
+<!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 📫 How to reach me: [sigbjorn.berdal14@gmail.com](mailto:sigbjorn.berdal14@gmail.com)
+- 🍕 Fun fact: [hmmm](https://www.reddit.com/r/hmmm/comments/l1wqav/hmmm/)
+
