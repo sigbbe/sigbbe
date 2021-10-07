@@ -10,4 +10,6 @@
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
--->
+  -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sigbbe)](https://github.com/sigbbe)
